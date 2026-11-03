@@ -1,0 +1,10 @@
+print("Hello from Python")
+print("Welcome to VS Code!")
+print("Activity 2 completed")
+
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+print("Largest number is:", max(a, b, c))
+print("Smallest number is:", min(a, b, c))
